@@ -2,5 +2,5 @@ Code generators for a context free grammar. The language is represented by ASTs 
 
   Context Free Grammar
   
-![](./images/cfg.png)
+![](./images/cfg.PNG)
 
